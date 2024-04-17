@@ -6,6 +6,14 @@
   height: 40vmin;
   pointer-events: none;
 }
+.chart-container {
+  width: 80%; /* Set the desired width */
+  margin: auto; /* Center the container */
+}
+
+.chart {
+  height: 400px; /* Set the desired height */
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
